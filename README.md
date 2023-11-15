@@ -1,1 +1,1 @@
-[Open bio](https://sange-klychev.github.io/rsschool-cv/cv "github-pages")
+[Open bio](https://sange-klychev.github.io/rsschool-cv/ "github-pages")
